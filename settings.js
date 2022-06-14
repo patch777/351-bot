@@ -28,7 +28,7 @@ global.footer = '©Patch-botInc.'
 global.ig = 'https://github.com/patch777'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/patch777'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.myweb = 'https://youtu.be/hYWltm6BgEw'
 global.packname = 'Patch'
 global.author = '🐦Star Boy Patch'
 global.sessionName = 'session'
@@ -44,7 +44,7 @@ global.mess = {
     bot: 'This Feature Is Only For Patch',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Theern Myr',
 }
     global.limitawal = {
     premium: "Infinity",
@@ -60,7 +60,7 @@ global.mess = {
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = '&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
