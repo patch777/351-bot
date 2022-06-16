@@ -61,9 +61,9 @@ global.mess = {
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
 global.flaming = '&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.fluming = 'https://i.imgur.com/ErRyJqa.jpeg'
+global.flarun = 'https://i.imgur.com/ErRyJqa.jpeg'
+global.flasmurf = 'https://i.imgur.com/ErRyJqa.jpeg'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
